@@ -1,0 +1,6 @@
+Installing dependencies
+Starting integration tests
+test_create_user ... ERROR
+psycopg.OperationalError: connection refused
+Could not connect to PostgreSQL at db:5432
+1 failed, 18 passed
